@@ -1,0 +1,18 @@
+# Hadoop / Spark temp
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+
+# OS
+.DS_Store
+# datasets
+*.txt
+*.crc
+
