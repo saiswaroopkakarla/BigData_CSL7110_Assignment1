@@ -1,4 +1,4 @@
-# CSL7110 — Big Data Frameworks — Assignment 1
+# CSL7110 — ML with Big Data — Assignment 1
 
 Name: Sai Swaroop  
 Roll No: M25DE1023  
