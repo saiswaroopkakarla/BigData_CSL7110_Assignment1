@@ -2,7 +2,7 @@
 
 Name: Sai Swaroop  
 Roll No: M25DE1023  
-Course: CSL7110 — Big Data Frameworks  
+Course: CSL7110 — ML with Big Data
 
 ---
 
